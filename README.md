@@ -247,7 +247,7 @@ class SatelliteAnalyzer:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"> **AI ENGINEER PROFILE #2024**
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"> **AI ENGINEER PROFILE #2025**
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
