@@ -18,7 +18,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                        🚀 AI ENGINEER CARD 🚀                          │
+│                        🚀  ENGINEER CARD 🚀                          │
 ├─────────────────────────────────────────────────────────────────────────┤
 │ NAME: Shatadru Dhar                                                     │
 │ TITLE: Artificial Intelligence Engineer                                 │
@@ -255,7 +255,7 @@ class SatelliteAnalyzer:
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                     🤖 AI ENGINEER DATA 🤖                      ║
+║                     🤖  ENGINEER DATA 🤖                      ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ SPECIES: Artificial Intelligence Engineer                       ║
 ║ TYPE: Multi-Modal AI Specialist                                 ║
