@@ -241,7 +241,6 @@ class SatelliteAnalyzer:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shatadru-dhar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/ShatadruDhar)
 [![Email](https://img.shields.io/badge/Let's_Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:shatadrudhar10c@gmail.com)
-[![Phone](https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+918902313849)
 
 </div>
 
