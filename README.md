@@ -18,13 +18,13 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                        🚀  ENGINEER CARD 🚀                          │
+│                        🚀  ENGINEER CARD 🚀                            │
 ├─────────────────────────────────────────────────────────────────────────┤
 │ NAME: Shatadru Dhar                                                     │
 │ TITLE: Artificial Intelligence Engineer                                 │
 │ LOCATION: Hooghly, West Bengal, India                                   │
 │ EDUCATION: B.Tech IT - Kalyani Government Engineering College           │
-│ CGPA: 7.34/10 (4th Semester)                                           │
+│ CGPA: 7.34/10 (4th Semester)                                            │
 │ SPECIALTY: Web Development & AI Solutions                               │
 │ LEGENDARY STATUS: Multi-Modal AI Architect                              │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -122,9 +122,7 @@
 <img src="https://img.shields.io/badge/Level-Advanced-orange?style=flat-square&logo=git&logoColor=white">
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"><br>
-<b>GitHub API</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-black?style=flat-square&logo=github&logoColor=white">
+
 </td>
 </tr>
 </table>
@@ -133,7 +131,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **LEGENDARY PROJECTS - HALL OF FAME**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> ** PROJECTS **
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ1OGF0NnVnazVuMmp4ZjNlc3RvaWVtaWpwYnk2dXk0NDZnbWpxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
@@ -212,27 +210,16 @@ class SatelliteAnalyzer:
 
 ### 🏆 **Achievements Unlocked**
 ```
-🥇 HackHazards: Top 100 teams out of 8500+ (TheNameSpaceCommunity)
-📊 JEE MAINS 2023: Ranked 34K
-🎯 WBJEE 2023: Ranked 2722
-🎓 Academic Excellence: 88.5% (XII) | 87.66% (X)
+ HackHazards: Top 100 teams out of 8500+ (TheNameSpaceCommunity)
+ JEE MAINS 2023: Ranked 34K
+ WBJEE 2023: Ranked 2722
+ OSCI #6 Contributor
+ Academic Excellence: 88.5% (XII) | 87.66% (X)
 ```
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **CURRENT MISSION STATUS**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=160&lines=🧠+Advanced+AI+%26+Machine+Learning;🌐+Full+Stack+Web+Development;🤖+Natural+Language+Processing;🛰️+Computer+Vision+Projects;📊+Data+Science+%26+Analytics;🚀+Emerging+Technology+Research;🤝+Open+Source+Contributions;💼+Building+Enterprise+Solutions" alt="Current Focus" />
-</div>
-
-**🎯 Seeking opportunities to contribute to innovative AI solutions while expanding technical expertise in:**
-- Multi-modal AI systems
-- Enterprise-grade applications  
-- Team management & collaboration
-- Emerging technologies
-
----
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **CONNECT WITH ME**
 
@@ -246,7 +233,7 @@ class SatelliteAnalyzer:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"> **AI ENGINEER PROFILE #2025**
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"> ** PROFILE #2026**
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
