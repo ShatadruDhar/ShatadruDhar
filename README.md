@@ -2,9 +2,10 @@
 
 <!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shatadru%20Dhar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Crafting%20Pixel-Perfect%20Interfaces&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="./coder_room_banner.png" width="100%" alt="Coder Room Banner"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=🎨+Crafting+Pixel-Perfect+Interfaces;⚡+React+%7C+Tailwind+%7C+JavaScript;🤖+AI-Powered+Web+Solutions;🚀+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+
+
 
 <br/>
 
@@ -18,12 +19,7 @@
 
 ---
 
-<div align="center">
 
-<!-- COOL CODING GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
-
-</div>
 
 <br/>
 
