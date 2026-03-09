@@ -1,279 +1,162 @@
-Welcome to Shatadru's AI Universe!
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd2dDRqN2tyMWRkeGhidHdkaHBoOXprYzBxejl2ZGVlNWh5ZXhscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1000&pause=1000&color=00D9FF&background=1A1A1A00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=SHATADRU+DHAR;AI+ENGINEER;B.TECH+IT+STUDENT;PROBLEM+SOLVER" alt="Typing SVG" />
-</div>
-
----
-
-## <img src="https://media1.tenor.com/m/SNL9_xhZl9kAAAAC/waving-hand-joypixels.gif" width="35"> **DEVELOPER PROFILE**
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGI3djNscDJ1Y3Btc3cxYmk0MmJqMzdlb2lqMHh0eWNnaTVwa2U0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                        🚀  ENGINEER CARD 🚀                            │
-├─────────────────────────────────────────────────────────────────────────┤
-│ NAME: Shatadru Dhar                                                     │
-│ TITLE: Artificial Intelligence Engineer                                 │
-│ LOCATION: Hooghly, West Bengal, India                                   │
-│ EDUCATION: B.Tech IT - Kalyani Government Engineering College           │
-│ CGPA: 7.34/10 (4th Semester)                                            │
-│ SPECIALTY: Web Development & AI Solutions                               │
-│ LEGENDARY STATUS: Multi-Modal AI Architect                              │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **MY TECH ARSENAL**
-
 <div align="center">
 
-### **💻 Programming Languages**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"><br>
-<b>Python</b><br>
-<img src="https://img.shields.io/badge/Level-Expert-yellow?style=flat-square&logo=python&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"><br>
-<b>JavaScript</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-orange?style=flat-square&logo=javascript&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"><br>
-<b>Java</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-red?style=flat-square&logo=java&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"><br>
-<b>C++</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-blue?style=flat-square&logo=cplusplus&logoColor=white">
-</td>
-</tr>
-</table>
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shatadru%20Dhar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Crafting%20Pixel-Perfect%20Interfaces&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-### **🌐 Web Technologies**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"><br>
-<b>HTML5</b><br>
-<img src="https://img.shields.io/badge/Level-Expert-red?style=flat-square&logo=html5&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"><br>
-<b>CSS3</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-blue?style=flat-square&logo=css3&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="60"><br>
-<b>Tailwind</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-cyan?style=flat-square&logo=tailwindcss&logoColor=white">
-</td>
-</tr>
-</table>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=🎨+Crafting+Pixel-Perfect+Interfaces;⚡+React+%7C+Tailwind+%7C+JavaScript;🤖+AI-Powered+Web+Solutions;🚀+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
-### **🤖 AI/ML & Frameworks**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"><br>
-<b>NumPy</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-purple?style=flat-square&logo=numpy&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60"><br>
-<b>Streamlit</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-red?style=flat-square&logo=streamlit&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60"><br>
-<b>Transformers</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-yellow?style=flat-square">
-</td>
-</tr>
-</table>
+<br/>
 
-### **🛠️ Tools & Technologies**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"><br>
-<b>VS Code</b><br>
-<img src="https://img.shields.io/badge/Level-Expert-blue?style=flat-square&logo=visualstudiocode&logoColor=white">
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"><br>
-<b>Git</b><br>
-<img src="https://img.shields.io/badge/Level-Advanced-orange?style=flat-square&logo=git&logoColor=white">
-</td>
-<td align="center" width="120">
-
-</td>
-</tr>
-</table>
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shatadru-dhar/)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShatadruDhar)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatadrudhar10c@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShatadruDhar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/ShatadruDhar)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> ** PROJECTS **
-
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ1OGF0NnVnazVuMmp4ZjNlc3RvaWVtaWpwYnk2dXk0NDZnbWpxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+
+<!-- COOL CODING GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+
 </div>
 
-### 🎯 **Poke Summarizer - Multi-Modal AI Platform**
-```python
-class PokeSummarizer:
-    type = "Multi-Modal AI"
-    ability = "Content Master"
-    
-    def ultimate_move(self):
-        return "📹🔊📝➡️📋 Everything Summarizer!"
-    
-    def features(self):
-        return {
-            "Input": "Text, Video, Audio",
-            "AI": "NLP + Transformers + Whisper",
-            "Platform": "Streamlit Cloud",
-            "Extra": "Sentiment Analysis + Verification"
-        }
-```
-**🚀 Technologies:** Python | Streamlit | NLP | Groq API | Transformers Whisper  
-**✨ Highlights:** Real-time processing, Enterprise deployment, ML-based accuracy algorithms
+<br/>
 
-### 🛠️ **Tekshila - AI-Powered Code Assistant**
-```javascript
-class TekshilaAI {
-    constructor() {
-        this.type = "Developer Tool";
-        this.power = "Code Intelligence";
-    }
-    
-    autoGenerate() {
-        return "📝 README + Comments + Quality Analysis!";
-    }
-    
-    integration() {
-        return "🔄 GitHub API + Gemini AI + Auto PR Creation";
-    }
-}
-```
-**🚀 Technologies:** Python | GitHub API | HTML | CSS | JavaScript | Gemini API  
-**✨ Highlights:** Auto-documentation, Multi-file processing, Direct PR integration
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
 
-### 🛰️ **AI-Powered Satellite Image Analysis System**
-```python
-class SatelliteAnalyzer:
-    type = "Computer Vision"
-    ability = "Earth Observer"
-    
-    def analyze_earth(self):
-        return "🛰️📊 Advanced Image Processing!"
-    
-    def applications(self):
-        return ["Environmental Monitoring", "Urban Planning", "Agriculture"]
-```
-**🚀 Technologies:** Python | Computer Vision | AI/ML  
-**✨ Highlights:** Satellite imagery processing, Environmental analysis capabilities
+```typescript
+const shatadru: Developer = {
+  name:       "Shatadru Dhar",
+  role:       "Frontend Developer & AI Engineer",
+  location:   "Hooghly, West Bengal, India 🇮🇳",
+  education:  "B.Tech Information Technology @ KGEC",
+  passion:    ["Clean UI", "AI Solutions", "Open Source"],
 
----
+  currentlyWorking: "Building pixel-perfect web experiences",
+  currentlyLearning: ["Advanced React Patterns", "WebGL", "Next.js"],
 
-## <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="35"> **GITHUB ANALYTICS & ACHIEVEMENTS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShatadruDhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=🚀%20Developer%20Stats&icon_color=79ff97&title_color=79ff97&text_color=9f9f9f&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShatadruDhar&theme=react-dark&bg_color=0d1117&color=79ff97&line=00d9ff&point=79ff97&custom_title=📈%20Contribution%20Journey"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShatadruDhar&layout=compact&langs_count=8&theme=radical&custom_title=💻%20Language%20Mastery&title_color=79ff97&text_color=9f9f9f&bg_color=0d1117"/>
-</div>
-
-### 🏆 **Achievements Unlocked**
-```
- HackHazards: Top 100 teams out of 8500+ (TheNameSpaceCommunity)
- JEE MAINS 2023: Ranked 34K
- WBJEE 2023: Ranked 2722
- OSCI #6 Contributor
- Academic Excellence: 88.5% (XII) | 87.66% (X)
+  funFact: "I turn coffee ☕ into clean, accessible code.",
+};
 ```
 
 ---
 
-
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **CONNECT WITH ME**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp; Tech Arsenal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shatadru-dhar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/ShatadruDhar)
-[![Email](https://img.shields.io/badge/Let's_Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:shatadrudhar10c@gmail.com)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛠️ Tools & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"> ** PROFILE #2026**
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+
+| Project | Description | Stack |
+|:-------:|:-----------:|:-----:|
+| 🎯 **[Poke Summarizer](https://github.com/coder-royswarnajit/Poke-Summarizer)** | Multi-modal AI that summarizes text, video & audio with sentiment analysis | Python · Streamlit · Whisper · Groq API |
+| 🛠️ **[Tekshila](https://github.com/ShatadruDhar/Tekshila)** | AI-powered code assistant — auto-generates READMEs, comments & PRs | JS · HTML · CSS · Gemini API · GitHub API |
+| 🛰️ **Satellite Image Analyzer** | AI-powered satellite imagery analysis for environmental monitoring | Python · Computer Vision · ML |
+| 💼 **[PromptHire](https://github.com/Durgeshwar-AI/PromptHire)** | AI-driven hiring platform with prompt-based workflows | TypeScript |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShatadruDhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=⚡%20Shatadru's%20Stats&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=12" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShatadruDhar&layout=compact&langs_count=8&theme=tokyonight&custom_title=💻%20Top%20Languages&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=12" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShatadruDhar&theme=tokyonight&background=0d1117&border=30363d&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&border_radius=12" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🗺️ Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShatadruDhar&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=a78bfa&custom_title=🔥%20Contribution%20Journey&radius=6" width="95%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ShatadruDhar&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8)
+
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                     🤖  ENGINEER DATA 🤖                      ║
-╠══════════════════════════════════════════════════════════════════╣
-║ SPECIES: Artificial Intelligence Engineer                       ║
-║ TYPE: Multi-Modal AI Specialist                                 ║
-║ EDUCATION: B.Tech Information Technology                        ║
-║ LOCATION: Hooghly, West Bengal, India 🇮🇳                       ║
-║                                                                  ║
-║ SUPERPOWERS:                                                     ║
-║ • AI Architect: Builds intelligent multi-modal systems          ║
-║ • Code Synthesizer: Transforms complex ideas into reality       ║
-║ • Problem Solver: Adaptive thinking & time management           ║
-║ • Polyglot: English, Bengali, Hindi                            ║
-║                                                                  ║
-║ HABITAT: Found in coding environments, surrounded by AI         ║
-║         research papers and fueled by innovation.               ║
-║                                                                  ║
-║ EVOLUTION: Student → Developer → AI Engineer →                  ║
-║           🌟 AI INNOVATION LEADER 🌟                            ║
-╚══════════════════════════════════════════════════════════════════╝
+🥇  HackHazards — Top 100 teams out of 8,500+   (TheNameSpaceCommunity)
+📐  JEE MAINS 2023 — Ranked 34,000
+📊  WBJEE 2023 — Ranked 2,722
+🌐  OSCI #6 — Open Source Contributor
+🎓  Class XII — 88.5%  |  Class X — 87.66%
 ```
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPqZPlKW5otXIS4/giphy.gif" width="400"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=500&height=60&lines=Build.+Learn.+Innovate.;Thanks+for+visiting!" alt="Closing Message" />
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShatadruDhar.ShatadruDhar&left_color=blue&right_color=cyan&left_text=Visitors)
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/>
+
+<a href="https://www.linkedin.com/in/shatadru-dhar/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ShatadruDhar" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:shatadrudhar10c@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=Build.+Learn.+Innovate.;Thanks+for+visiting!+⭐+the+repos!" alt="Closing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
 </div>
