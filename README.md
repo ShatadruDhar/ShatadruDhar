@@ -37,8 +37,7 @@ const shatadru: Developer = {
   funFact: "I turn coffee ☕ into clean, accessible code.",
 };
 ```
-
----
+<br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp; Tech Arsenal
 
