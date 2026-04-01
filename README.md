@@ -66,7 +66,7 @@ const shatadru: Developer = {
 </div>
 
 ---
-<br/>
+
 
 ## 🚀 Featured Projects
 
