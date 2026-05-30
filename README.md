@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shatadru%20Dhar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 <img src="./coder_room_banner.png" width="100%" alt="Coder Room Banner"/>
 <br/>
-
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shatadru-dhar/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShatadruDhar)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatadrudhar10c@gmail.com)
