@@ -99,7 +99,6 @@ const shatadru: Developer = {
 | 💼 **[PromptHire](https://github.com/Durgeshwar-AI/PromptHire)** | AI-driven hiring platform — cuts a 3-week hiring cycle to 48 hrs; screens 200+ resumes in 2 mins, ~99% cheaper | React 19, TypeScript, Vite, Tailwind, ElevenLabs, HuggingFace |
 | 🛠️ **[Tekshila](https://github.com/ShatadruDhar/Tekshila)** | AI-powered code assistant — auto-generates READMEs, comments and PRs with real-time API integration | HTML, CSS, JS, Gemini API, GitHub API |
 | 🎯 **[Poke Summarizer](https://github.com/coder-royswarnajit/Poke-Summarizer)** | Multi-modal AI that summarizes text, video and audio with sentiment analysis and accuracy scoring | Python, Streamlit, Whisper, Groq API |
-| 🛰️ **Satellite Image Analyzer** | AI-powered satellite imagery analysis for environmental monitoring | Python, Computer Vision, ML |
 
 </div>
 
