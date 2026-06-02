@@ -18,6 +18,8 @@
 
 ## 🧑‍💻 About Me
 
+<br/>
+
 ```typescript
 const shatadru: Developer = {
   name:       "Shatadru Dhar",
