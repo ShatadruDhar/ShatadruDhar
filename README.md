@@ -1,14 +1,15 @@
 <div align="center">
 <br/>
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shatadru%20Dhar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shatadru%20Dhar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Header"/>
 <img src="./coder_room_banner.png" width="100%" alt="Coder Room Banner"/>
 <br/>
 <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shatadru-dhar/)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShatadruDhar)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatadrudhar10c@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ShatadruDhar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/ShatadruDhar)
+
+<a href="https://www.linkedin.com/in/shatadru-dhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/ShatadruDhar"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:shatadrudhar10c@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ShatadruDhar"><img src="https://komarev.com/ghpvc/?username=ShatadruDhar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 
 </div>
 
@@ -30,7 +31,7 @@ const shatadru: Developer = {
 
   experience: [
     "Frontend Developer Intern @ Scarflow (Aug–Oct 2025)",
-    "AI Chatbot Developer Intern @ Minu Travels (Oct–Nov 2025)",
+    "Frontend Developer Intern @ Minu Travels (Oct–Nov 2025)",
   ],
 
   currentlyLearning: ["Advanced React Patterns", "System Design", "Next.js"],
@@ -160,17 +161,9 @@ const shatadru: Developer = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shatadru-dhar/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/ShatadruDhar" target="_blank">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:shatadrudhar10c@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/shatadru-dhar/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://github.com/ShatadruDhar"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+<a href="mailto:shatadrudhar10c@gmail.com?subject=Hello%20Shatadru"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 
 <br/><br/>
 
@@ -178,6 +171,6 @@ const shatadru: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
